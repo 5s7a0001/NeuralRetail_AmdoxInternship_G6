@@ -13,19 +13,66 @@ Group 6
 - Inventory Optimization
 - Interactive Dashboard
 
-## Tech Stack
-pandas==2.3.0
-numpy==2.2.6
-matplotlib==3.10.3
-seaborn==0.13.2
-plotly==6.1.2
-scikit-learn==1.7.0
-xgboost==3.0.2
-prophet==1.1.7
-jupyter==1.1.1
-notebook==7.4.3
-openpyxl==3.1.5
-streamlit==1.45.1
-scipy==1.15.3
+## TECH STACK
+
+### Programming Language
+
+* Python 3.x
+
+### Data Processing & Analysis
+
+* Pandas
+* NumPy
+
+### Data Visualization
+
+* Matplotlib
+* Seaborn
+* Plotly
+* Plotly Express
+* Plotly Graph Objects
+
+### Statistical Analysis & Time Series
+
+* Statsmodels
+
+  * STL Decomposition
+  * Augmented Dickey-Fuller (ADF) Test
+
+### Machine Learning & Forecasting
+
+* XGBoost (XGBRegressor)
+* LightGBM (LGBMRegressor)
+* Prophet (Meta/Facebook Prophet)
+* Scikit-learn
+
+### Feature Engineering
+
+* Lag Features
+* Rolling Statistics
+* Exponential Moving Averages (EMA)
+* Momentum & Rate-of-Change Features
+* Calendar-Based Features
+* Seasonal Cyclical Encoding
+
+### Model Evaluation Metrics
+
+* Mean Absolute Error (MAE)
+* Root Mean Squared Error (RMSE)
+* Mean Absolute Percentage Error (MAPE)
+* R² Score
+
+### Development Environment
+
+* Jupyter Notebook
+* Anaconda / Python Virtual Environment
+
+### Business Intelligence Outputs
+
+* CSV Forecast Exports
+* Forecast Visualizations
+* Executive Forecast Reports
+* Inventory Planning Recommendations
+
 ## Dataset
 Online Retail II Dataset
