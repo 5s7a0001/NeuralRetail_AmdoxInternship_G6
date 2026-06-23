@@ -1,0 +1,4 @@
+Horizon,Status,Urgency_Level,Current_Inventory,Forecast_Total_£,Forecast_Avg_Daily_£,Forecast_Peak_Daily_£,Safety_Stock,Reorder_Point,Reorder_Quantity,Reorder_Value_£,Lead_Time_Days,Days_To_Stockout
+7-Day,  REORDER SOON,2,276617.56,331769.62,47395.66,58633.84,66353.93,398123.56,121506.0,121506.0,3,2.5
+30-Day,  REORDER SOON,2,1.349256e+06,1.3259199e+06,44197.33,58633.84,265183.97,1.5911039e+06,241847.88,241847.88,3,3.1
+90-Day, URGENT REORDER,1,2.275304e+06,4.0713955e+06,45237.72,58633.84,814279.1,4.8856745e+06,2.6103705e+06,2.6103705e+06,3,1.7
